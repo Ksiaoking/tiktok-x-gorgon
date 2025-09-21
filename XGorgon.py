@@ -128,6 +128,7 @@ def X_Gorgon0404 ():#line:124
             for O0OOOOOOO00O000O0 in range (0 ,4 ):#line:146
                 OO00O0OO0O0O0O0OO .append (int (OOO0OO00O0OO0000O [2 *O0OOOOOOO00O000O0 :2 *O0OOOOOOO00O000O0 +2 ],16 ))#line:147
     else :#line:148
+        
         for O0OOOOOOO00O000O0 in range (0 ,4 ):#line:149
             OO00O0OO0O0O0O0OO .append (0 )#line:150
     if O0O0OOO0OOO0OO0O0 :#line:151
